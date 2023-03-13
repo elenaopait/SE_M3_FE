@@ -17,7 +17,7 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
-            ANANANANANAS cu parizer
+
             <code className={styles.code}>src/pages/index.tsx</code>
           </p>
           <div>
@@ -58,7 +58,7 @@ export default function Home() {
             />
           </div>
         </div>
-        <h1>ANANANANANANANAS</h1>
+
         <div className={styles.grid}>
           <a
             href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
