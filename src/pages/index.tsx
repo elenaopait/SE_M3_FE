@@ -7,8 +7,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
   return (
-    <div className={styles.container}>
-      <div className='text-red-500 bg-blue-500'>hello world</div>
+    <>
     
       <Head>
         <title>Create Next App</title>
@@ -123,6 +122,6 @@ export default function Home() {
           </a>
         </div>
       </main>
-    </div>
+    </>
   )
 }
